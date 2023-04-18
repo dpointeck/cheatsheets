@@ -1,6 +1,6 @@
 <script lang="ts">
 
-    export let data: {content: {test: string}};
+    export let data: {content: { test: string }};
 
     console.log(data)
 </script>
