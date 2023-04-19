@@ -1,9 +1,8 @@
 <script lang="ts">
 
     export let data: {content: { test: string }};
-
-    console.log(data)
+    console.log(data);
 </script>
 
 
-<pre>{@html data.content.test}</pre>
+<pre>{@html data.content.test }</pre>
