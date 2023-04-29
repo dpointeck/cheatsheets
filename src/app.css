@@ -4,7 +4,7 @@ body {
 
 @media (prefers-color-scheme: dark) {
     body {
-        background-color: var(--bg-dark-primary);
+        background-color: var(--bg-primary-dark);
         color: #fff;
     }
 }
